@@ -1,0 +1,5 @@
+typer
+rich
+chromadb
+groq
+python-dotenv
